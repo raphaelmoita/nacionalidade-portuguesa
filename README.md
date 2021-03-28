@@ -1,19 +1,14 @@
-# Facebook
+# Documentos para nacionalidade Portuguesa
 
-https://www.facebook.com/groups/cidadaniaportuguesa/
+### Manoel Francisco Moita
+- certidão de nascimento (vem de portugal)
 
-# Consulado PoA
+### José Francisco Moita
+- certidão de nascimento (foto integral emitida por fotocópia e apostilada de acordo com Apostilamento de Haia)
 
-### Regras
-https://www.consuladoportugalportoalegre.com/membros-da-comunidade-ou-com-servios-re
-
-### Requerimento
-https://www.irn.mj.pt/IRN/sections/irn/a_registral/registos-centrais/docs-da-nacionalidade/docs-comuns/mod-pag-impressos/downloadFile/attachedFile_8_f0/Artigo_6-6_cheque.pdf?nocache=1328889042.91
-
-### contatos
-maria.tavares@mne.pt: Nacionalidade portuguesa, transcrição de casamento e de óbito e pedido de certidão de nascimento.
-https://www.consuladoportugalportoalegre.com/o-vice-consulado
-
-### documentos
-
-https://drive.google.com/drive/folders/1FRwO4x5GbryGguA2aqao25MzIMc6EkVd?usp=sharing
+### Jorge Luis dos Santos Moita
+- certidão de nascimento (foto integral emitida por fotocópia e apostilada de acordo com Apostilamento de Haia)
+- cópia da carteira de identidade (foto integral emitida por fotocópia e apostilada de acordo com Apostilamento de Haia)
+- deve ter sido emitida nos últimos 5 anos
+- declarar que quer adquirir a nacionalidade portuguesa: [declaração preenchida](docs/IRN_Artigo_1-D_visa-Pagamento_Visa-Mastercard_Nr.268737.pdf)
+- registo criminal - https://servicos.dpf.gov.br/antecedentes-criminais/certidao (documento deve ser apostilado de acordo com Apostilamento de Haia)
