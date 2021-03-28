@@ -1,7 +1,7 @@
 # Documentos para nacionalidade Portuguesa
 
 ### Manoel Francisco Moita
-- certidão de nascimento [pedido de reprodução](docs/pedido_de_reproducao_certidao_Manoel.pdf)
+- certidão de nascimento [pedido de reprodução](docs/pedido_de_reproducao_certidao_Manoel.pdf) (vem de Portugal)
 
 ### José Francisco Moita
 - certidão de nascimento (foto integral emitida por fotocópia e apostilada de acordo com Apostilamento de Haia)
