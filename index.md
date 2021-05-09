@@ -1,14 +1,24 @@
-# Documentos para nacionalidade Portuguesa
+# Declaração para atribuição da nacionalidade portuguesa
 
-### Manoel Francisco Moita
-- certidão de nascimento [pedido de reprodução](docs/pedido_de_reproducao_certidao_Manoel.pdf) (vem de Portugal)
+## Declarante: Jorge Luís dos Santos Moita (contato: raphael.moita@gmail.com)
 
-### José Francisco Moita
-- certidão de nascimento (foto integral emitida por fotocópia e apostilada de acordo com Apostilamento de Haia)
+<br/>
 
-### Jorge Luis dos Santos Moita
-- certidão de nascimento (foto integral emitida por fotocópia e apostilada de acordo com Apostilamento de Haia)
-- cópia da carteira de identidade (foto integral emitida por fotocópia e apostilada de acordo com Apostilamento de Haia)
-- declarar que quer adquirir a nacionalidade portuguesa: [declaração preenchida](docs/IRN_Artigo_1-D_visa-Pagamento_Visa-Mastercard_Nr.268737.pdf)
-- registo criminal - [Certidão de antecendentes criminais](docs/28.03.2021_CERTID%C3%83O_DE_ANTECEDENTES_CRIMINAIS.pdf) (documento deve ser apostilado de acordo com Apostilamento de Haia)
-   - https://servicos.dpf.gov.br/antecedentes-criminais/certidao 
+- Formulário de declaração para atribuição da nacionalidade portuguesa:
+  - [Formulário preenchido por Jorge Luís dos Santos Moita](documentos_enviados/formulario.pdf)  
+- Certidão do registo de nascimento do interessado:
+  - [Certidão de Jorge Luís dos Santos Moita](documentos_enviados/certidao_nascimento_jorge.pdf)  
+- Certificado(s) do registo criminal estrangeiro, emitido no Brasil:
+  - [Certificado do registo criminal de Jorge Luís dos Santos Moita](documentos_enviados/antecedentes_criminais_jorge.pdf)  
+- Carteira de identidade brasileira do interessado:
+  - [Carteira de identidade de Jorge Luís dos Santos Moita](documentos_enviados/carteira_identidade_jorge.pdf)  
+
+<br/>
+
+- Certidão do registo de nascimento do ascendente do segundo grau, da linha reta (avó/avô), português:
+  - [Certidão de Manoel Francisco Moita](documentos_enviados/certidao_batismo_manoel.pdf) 
+
+<br/>
+
+- Certidão do registo de nascimento do progenitor (mãe/pai) que é descendente do nacional português:
+  - [Certidão de José Francisco Moita](documentos_enviados/certidao_nascimento_jose.pdf)  
