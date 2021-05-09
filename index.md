@@ -2,6 +2,14 @@
 
 ## Declarante: Jorge Luís dos Santos Moita (contato: raphael.moita@gmail.com)
 
+<p align="center">
+  <img src="images/arvore.png">
+</p>
+
+<br/>
+
+Todos documentos abaixo foram certificados de acordo com Apostilamento de Haia
+
 <br/>
 
 - Formulário de declaração para atribuição da nacionalidade portuguesa:
