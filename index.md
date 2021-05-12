@@ -14,12 +14,12 @@ Contato: [raphael.moita@gmail.com](raphael.moita@gmail.com)
 ----------------------------------------------------------------------------------------------------------------------<br/>
 <br/>
 
-- [x] Formulário de declaração para atribuição da nacionalidade portuguesa: [visualizar](documentos_enviados/formulario.pdf)  
-- [x] Certidão do registo de nascimento do interessado: [visualizar](documentos_enviados/certidao_nascimento_jorge.pdf)  
-- [x] Certificado do registo criminal estrangeiro, emitido no Brasil: [visualizar](documentos_enviados/antecedentes_criminais_jorge.pdf)  
-- [x] Carteira de identidade brasileira do interessado: [visualizar](documentos_enviados/carteira_identidade_jorge.pdf)  
-- [x] Certidão do registo de nascimento do ascendente do segundo grau, da linha reta (avó/avô), português: [visualizar](documentos_enviados/certidao_batismo_manoel.pdf) 
-- [x] Certidão do registo de nascimento do progenitor (mãe/pai) que é descendente do nacional português: [visualizar](documentos_enviados/certidao_nascimento_jose.pdf)  
+- [x] &nbsp; Formulário de declaração para atribuição da nacionalidade portuguesa: [visualizar](documentos_enviados/formulario.pdf)  
+- [x] &nbsp; Certidão do registo de nascimento do interessado: [visualizar](documentos_enviados/certidao_nascimento_jorge.pdf)  
+- [x] &nbsp; Certificado do registo criminal estrangeiro, emitido no Brasil: [visualizar](documentos_enviados/antecedentes_criminais_jorge.pdf)  
+- [x] &nbsp; Carteira de identidade brasileira do interessado: [visualizar](documentos_enviados/carteira_identidade_jorge.pdf)  
+- [x] &nbsp; Certidão do registo de nascimento do ascendente do segundo grau, da linha reta (avó/avô), português: [visualizar](documentos_enviados/certidao_batismo_manoel.pdf) 
+- [x] &nbsp; Certidão do registo de nascimento do progenitor (mãe/pai) que é descendente do nacional português: [visualizar](documentos_enviados/certidao_nascimento_jose.pdf)  
 
 <br/>
 
