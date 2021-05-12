@@ -1,4 +1,4 @@
-## :portugal: :brazil: Documentos para processo de pedido de nacionalidade portuguesa
+## Documentos para processo de pedido de nacionalidade portuguesa
 
 Os documentos abaixo foram enviados como parte do processo de pedido de nacionalidade portuguesa, tendo como declarante **Jorge Luís dos Santos Moita**, brasileiro nascido em Rio Grande-RS e neto de **Manoel Francisco Moita**, português nascido na freguesia de Oliveirinha, concelho de Aveiro.
 
@@ -20,3 +20,9 @@ Contato: raphael.moita@gmail.com
 - [x] Carteira de identidade brasileira do interessado: [visualizar](documentos_enviados/carteira_identidade_jorge.pdf)  
 - [x] Certidão do registo de nascimento do ascendente do segundo grau, da linha reta (avó/avô), português: [visualizar](documentos_enviados/certidao_batismo_manoel.pdf) 
 - [x] Certidão do registo de nascimento do progenitor (mãe/pai) que é descendente do nacional português: [visualizar](documentos_enviados/certidao_nascimento_jose.pdf)  
+
+<br/>
+
+<p align="center">
+  2021
+</p>
