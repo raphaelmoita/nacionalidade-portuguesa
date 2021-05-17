@@ -26,3 +26,9 @@ Contato: [raphael.moita@gmail.com](raphael.moita@gmail.com)
 <p align="center">
   2021
 </p>
+
+<div id="sfc1ehpuk1wl2b834n3en7lehy54lrcm4sr"></div>
+<script type="text/javascript" src="https://counter1.stat.ovh/private/counter.js?c=1ehpuk1wl2b834n3en7lehy54lrcm4sr&down=async" async></script>
+<noscript>
+  <a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter1.stat.ovh/private/freecounterstat.php?c=1ehpuk1wl2b834n3en7lehy54lrcm4sr" border="0" title="hit counter" alt="hit counter"></a>
+</noscript>
