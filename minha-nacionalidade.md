@@ -22,3 +22,15 @@ Site: https://www.civilonline.mj.pt/CivilOnline/homepage.jsp
 7. Digite o código de verificação que vai aparecer e o código de acesso que você recebeu
   Na página seguinte você tem a opção de baixar um documento no formato .DOC (Word) com a certidão emitida. Esse código de acesso tem validade de 6 meses.
 ```
+
+## formulário de Pedido
+
+- formulários e pagamento
+https://irn.justica.gov.pt/Impressos-e-Modelos?pk_vid=806069f83d98d07017420336846838eb
+
+- Modelo 1C - maior de 18 anos
+https://irn.justica.gov.pt/Portals/33/Impressos/Nacionalidade/Modelo%201C%20-%20maior%20de%2018%20anos.pdf?ver=vX7Bbw6r16z0QG-IDnyHBA%3d%3d&timestamp=1703774457096
+
+## Documentos
+
+https://justica.gov.pt/Como-obter-nacionalidade-portuguesa/Nasceu-no-estrangeiro-e-e-filho-de-um-portugues#Parapediranacionalidadeportuguesavaiprecisardeapresentar
