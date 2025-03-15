@@ -23,14 +23,22 @@ Site: https://www.civilonline.mj.pt/CivilOnline/homepage.jsp
   Na página seguinte você tem a opção de baixar um documento no formato .DOC (Word) com a certidão emitida. Esse código de acesso tem validade de 6 meses.
 ```
 
-## formulário de Pedido
+## Formulário de Pedido
 
-- formulários e pagamento
+- Formulários e pagamento
 https://irn.justica.gov.pt/Impressos-e-Modelos?pk_vid=806069f83d98d07017420336846838eb
 
-- Modelo 1C - maior de 18 anos
+- Atribuição: Modelo 1C - maior de 18 anos
 https://irn.justica.gov.pt/Portals/33/Impressos/Nacionalidade/Modelo%201C%20-%20maior%20de%2018%20anos.pdf?ver=vX7Bbw6r16z0QG-IDnyHBA%3d%3d&timestamp=1703774457096
+
+- Aquisição: Se for estrangeiro casado há mais de três anos com cidadão português
+https://irn.justica.gov.pt/Portals/33/Impressos/Nacionalidade/Modelo%203.pdf?ver=ogekLnVzZYnYHn2QBQCOzQ%3d%3d&timestamp=1703774559750
+
 
 ## Documentos
 
+- Filho
 https://justica.gov.pt/Como-obter-nacionalidade-portuguesa/Nasceu-no-estrangeiro-e-e-filho-de-um-portugues#Parapediranacionalidadeportuguesavaiprecisardeapresentar
+
+- Esposa
+https://justica.gov.pt/Como-obter-nacionalidade-portuguesa/E-casado-ou-vive-em-uniao-de-facto-com-um-portugues-ha-mais-de-3-anos
